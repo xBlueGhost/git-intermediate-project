@@ -1,2 +1,1 @@
-# git-advanced
-Projet à forker et à utiliser pour le CodeLabs git-CodeLabs-advanced
+Ceci est le README de la develop !
